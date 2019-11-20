@@ -1,0 +1,127 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "YcKZGK4JF7vJ0EAQ3Ed_E",
+      "createdAt": "1571077068735",
+      "name": "Miso",
+      "type": "CAT",
+      "owner": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "r3cyMzHd3QwBkVpVzmFy7",
+      "createdAt": "1571077166153",
+      "name": "Kanna",
+      "type": "CAT",
+      "owner": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "oDUy5hDbBgrr5xquO396q",
+      "createdAt": "1571080756490",
+      "name": "Hobbes",
+      "type": "DOG",
+      "owner": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "1NQjEXMFglHAWo-bXKPN6",
+      "createdAt": "1571081142542",
+      "name": "Gus",
+      "type": "CAT",
+      "owner": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "MvFuknyNTPiSUcuxfbYeb",
+      "createdAt": "1571081147379",
+      "name": "Zeke",
+      "type": "CAT",
+      "owner": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "ernsBU8UiXMfTJpOj_E3y",
+      "createdAt": "1571158708525",
+      "name": "batman",
+      "type": "DOG"
+    },
+    {
+      "id": "ZzWFl-wch19xO7faYjJW3",
+      "createdAt": "1571159297753",
+      "name": "heard",
+      "type": "DOG"
+    },
+    {
+      "id": "Amg3SxYjS5BRzLhXoTEdr",
+      "createdAt": "1571161943896",
+      "name": "Louie",
+      "type": "DOG"
+    },
+    {
+      "id": "3t3eILLGObdX20ATqV7-w",
+      "createdAt": "1571162686361",
+      "name": "Scott Bakula",
+      "type": "CAT"
+    },
+    {
+      "id": "F6P4tOXdkuaB4tVF42dqn",
+      "createdAt": "1571164946256",
+      "name": "Sir Pawsington",
+      "type": "CAT"
+    },
+    {
+      "id": "8c7OoXK35-y5KxwKsdlGG",
+      "createdAt": "1571165017096",
+      "name": "Doggo",
+      "type": "DOG"
+    },
+    {
+      "id": "Bmv-QIu8LNszqXuJ4zdLK",
+      "createdAt": "1571165254828",
+      "name": "Dodododo",
+      "type": "DOG"
+    },
+    {
+      "id": "vJp096hKPM3T4rVj1VJ_b",
+      "createdAt": "1571165343822",
+      "name": "Savanna",
+      "type": "CAT"
+    },
+    {
+      "id": "KDMs_8fqp6jOHlc6Zzi3o",
+      "createdAt": "1571165486486",
+      "name": "Sirata",
+      "type": "CAT"
+    },
+    {
+      "id": "fQTyUkMRpumMCVw2SYzGQ",
+      "createdAt": "1571166612159",
+      "name": "Jenkins",
+      "type": "CAT"
+    },
+    {
+      "id": "UOfBHLwtc2UfpkLaOjX90",
+      "createdAt": "1571167337107",
+      "name": "2B",
+      "type": "CAT"
+    },
+    {
+      "id": "8qE82H7-J9YGynm46YOAb",
+      "createdAt": "1571167494784",
+      "name": "9S",
+      "type": "DOG"
+    },
+    {
+      "id": "KcAU0kyMt8C8GXQMjvrwQ",
+      "createdAt": "1571167592133",
+      "name": "Starter",
+      "type": "DOG"
+    },
+    {
+      "id": "aZEm6pkAKK7NFUa9ER7Oi",
+      "createdAt": "1571168452616",
+      "name": "Chill Hop",
+      "type": "DOG"
+    }
+  ]
+}
